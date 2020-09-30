@@ -2,6 +2,6 @@ ingredients
 instructions
 
 avocado
-lime
+lemon
 salt
 
